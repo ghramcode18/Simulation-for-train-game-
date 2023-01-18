@@ -1,0 +1,2 @@
+# Simulation for train game 
+  Train game I will build with C++ OpenGL legacy with Oop, With an environment around the train . Different carriages: Sleeping carriage Dining carriage Multiple passenger carriages Driving carriage Kitchen car Office carriage Cinema carriage With movie projector With laptop to control With environment Changing with the movement of the train and taking into account the change in lighting and creating a movement for curtains in the carriages, taking into account the transparency of the surfaces
