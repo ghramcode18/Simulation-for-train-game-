@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\images">
+      <UniqueIdentifier>{d728c560-10fe-4e66-8879-3e2abba865db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\images\skybox">
+      <UniqueIdentifier>{b99a5358-85a5-425f-be13-88cb02b83342}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Point.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Helper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Parts.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Shapes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="texture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Control.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Collider.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="3DTexture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="heightMap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Terrain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CarriageDriver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CarriageGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CarriageSleeping.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Parts2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Test.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Point.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\2318887-NEW-LAPTOP-\Desktop\opengl-lab-lec4-5-io-glu-depth-camera-lightining\opengl-lab-lec4-5-io-glu-depth-camera-lightining\OpenGLab\Camera\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Helper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Parts.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Shapes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Control.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Collider.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Terrain.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CarriageGame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CarriageDriver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CarriageSleeping.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Parts2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="images\skybox\back.bmp">
+      <Filter>Source Files\images\skybox</Filter>
+    </Image>
+    <Image Include="images\skybox\front.bmp">
+      <Filter>Source Files\images\skybox</Filter>
+    </Image>
+    <Image Include="images\skybox\left.bmp">
+      <Filter>Source Files\images\skybox</Filter>
+    </Image>
+    <Image Include="images\skybox\right.bmp">
+      <Filter>Source Files\images\skybox</Filter>
+    </Image>
+    <Image Include="images\skybox\top.bmp">
+      <Filter>Source Files\images\skybox</Filter>
+    </Image>
+    <Image Include="images\skybox\Daylight Box_Back.bmp">
+      <Filter>Source Files\images\skybox</Filter>
+    </Image>
+    <Image Include="images\skybox\Daylight Box_Bottom.bmp">
+      <Filter>Source Files\images\skybox</Filter>
+    </Image>
+    <Image Include="images\skybox\Daylight Box_Front.bmp">
+      <Filter>Source Files\images\skybox</Filter>
+    </Image>
+    <Image Include="images\skybox\Daylight Box_Right.bmp">
+      <Filter>Source Files\images\skybox</Filter>
+    </Image>
+    <Image Include="images\skybox\Daylight Box_Top.bmp">
+      <Filter>Source Files\images\skybox</Filter>
+    </Image>
+    <Image Include="images\skybox\Daylight Box_Left.bmp">
+      <Filter>Source Files\images\skybox</Filter>
+    </Image>
+    <Image Include="images\Grass.bmp">
+      <Filter>Source Files\images</Filter>
+    </Image>
+    <Image Include="images\Wood.bmp">
+      <Filter>Source Files\images</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
